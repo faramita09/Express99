@@ -1,0 +1,25 @@
+{
+  "name": "projextex99",
+  "version": "1.0.0",
+  "description": "currency exchange rates",
+  "main": "main.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^7.1.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-mocha-istanbul": "^5.0.2"
+  },
+  "scripts": {
+    "test": "main.js"
+  },
+  "keywords": [
+    "ex99"
+  ],
+  "author": "ex99 taem",
+  "license": "ISC"
+}
